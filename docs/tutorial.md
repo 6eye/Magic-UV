@@ -294,7 +294,7 @@ This feature is same as "Preserve UVs" feature on 3dsmax.
 4. Transform vertices/edges/faces as you like
 5. Click **Unlock**, you can return to the UV before locking
 
-* If **connect** property is enabled, you can keep UV connection by changing other face's UV.
+* If **Connect** property is enabled, you can keep UV connection by changing other face's UV.
 
 #### Interactive mode
 
