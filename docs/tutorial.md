@@ -508,8 +508,8 @@ Apply island packing and integrate islands which have same shape.
 2. Select faces whose UV you want to pack
 3. Click **Pack UV**
 
-* **Allowable Center Deviation** provides a way to specify the center deviation that regards as the same island
-* **Allowable Size Deviation** provides a way to specify the size deviation that regards as the same island
+* **Allowable Center Deviation** property provides a way to specify the center deviation that regards as the same island
+* **Allowable Size Deviation** property provides a way to specify the size deviation that regards as the same island
 * Default Pack Islands property is available
 
 
@@ -585,6 +585,6 @@ Inspect UV and help you to find which UV is on the abnormal condition.
 3. Click **Update** if you want to update to the latest status
 4. Click **Hide**
 
-* If **Overlapped** property is enabled, the overlapped part is enhanced
-* If **Flipped** property is enabled, the flipped part is enhanced
+* If **Overlapped** property is enabled, the overlapped part/face is enhanced
+* If **Flipped** property is enabled, the flipped part/face is enhanced
 * If you specify **Part** in **Mode** property, enhance only to the overlapped/flipped part. If you specify **Face**, enhance the overlapped/flipped face
